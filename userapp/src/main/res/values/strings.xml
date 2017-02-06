@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">UserApp</string>
+    <string name="bindService">绑定服务</string>
+    <string name="unbindService">取消绑定</string>
+</resources>
